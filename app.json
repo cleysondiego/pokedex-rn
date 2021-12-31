@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pokedex-rn",
+    "slug": "pokedex-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pokedex-rn"
+}
