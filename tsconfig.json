@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules",
+    "public",
+    "__tests__/**/*-test.ts"
+  ],
+  "extends": "expo/tsconfig.base"
+}
